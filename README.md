@@ -41,7 +41,7 @@ const apiKey = 'YOUR_API_KEY';
 
 ## Contributors
 
-- Shivansh Khankriyal (https://github.com/ShivanshKhankiyal) - Lead Developer
+- Shivansh Khankriyal ((https://github.com/ShivanshKhankriyal)) - Lead Developer
 
 ## License
 
