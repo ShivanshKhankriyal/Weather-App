@@ -1,5 +1,9 @@
 # Weather App Readme
 
+
+Preview! ![Weather app](https://github.com/ShivanshKhankriyal/Weather-App/assets/96327360/9822281e-1764-4ccb-8dc3-2158e806a953)
+
+
 ## Introduction
 This GitHub repository contains a simple weather app that provides real-time weather information using the OpenWeatherMap API. The app is built using HTML, CSS, and JavaScript. In this project, we've organized the code into different files for HTML and CSS while including the JavaScript directly within the HTML file to keep things simple. Additionally, all images used in the project are stored in a separate "images" folder within the repository.
 
